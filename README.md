@@ -74,7 +74,7 @@ Political discussions on social media platforms generate massive amounts of unst
 
 | Metric   | Result |
 |--------|--------|
-| Accuracy | High classification accuracy |
+| Accuracy | 97.78% (Using Logistic Regression) |
 | Observation | Improved results with TF-IDF and balanced classes |
 
 The results demonstrate that NLP-based machine learning models can effectively classify political text data when supported by strong preprocessing and feature engineering.
